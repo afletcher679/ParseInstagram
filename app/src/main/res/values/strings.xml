@@ -12,4 +12,5 @@
     <string name="finish">Finish</string>
     <string name="Username">Username</string>
     <string name="email">Email</string>
+    <string name="log_out">Log Out</string>
 </resources>
